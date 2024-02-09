@@ -6,4 +6,7 @@ int moves,cabages;
 	 this.cabages=cabages;
 	 this.moves=moves;
  }
+ int get_involed() {
+	 return moves;
+ }
 }
